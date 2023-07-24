@@ -1,4 +1,4 @@
-### Olá! 🥳
+### Olá! ![](https://media.tenor.com/93tDn9zeswoAAAAi/mewo-sleep-sprite-mewo.gif)
 
 Eu sou a Leticia
 
