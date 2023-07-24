@@ -4,10 +4,9 @@ Eu sou a Leticia
 
 - Atualmente estou realizando cursos na Alura
 - Estou desenvolvendo programação na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Utilizo [P5.js](https://editor.p5js.org) para programar
 
-
- ### Você pode entrar em contato comigo através do meu email  👇
+  <Você pode entrar em contato comigo através do meu email `#RRGGBB`  👇
 
   leticiafarinacio1@gmail.com
 
