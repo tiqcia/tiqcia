@@ -1,6 +1,6 @@
 ### Olá! ![](https://media.tenor.com/93tDn9zeswoAAAAi/mewo-sleep-sprite-mewo.gif)
 
-Eu sou a Leticia
+Eu sou a Leticia 
 
 - Atualmente estou realizando cursos na Alura
 - Estou desenvolvendo programação na linguagem JavaScript
@@ -10,5 +10,5 @@ Eu sou a Leticia
 
   `leticiafarinacio1@gmail.com`
 
-![](https://media.tenor.com/8YnKGZJOtaMAAAAi/niko-oneshot.gif)
+
 
