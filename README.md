@@ -8,7 +8,7 @@ Eu sou a Leticia
 
   `Você pode entrar em contato comigo através do meu email`  👇
 
-  leticiafarinacio1@gmail.com
+  `leticiafarinacio1@gmail.com`
 
 ![](https://media.tenor.com/8YnKGZJOtaMAAAAi/niko-oneshot.gif)
 
