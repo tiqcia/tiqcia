@@ -1,6 +1,6 @@
-### Olá! ![](https://media.tenor.com/93tDn9zeswoAAAAi/mewo-sleep-sprite-mewo.gif)
+### Olá! Eu sou a Leticia ![](https://media.tenor.com/93tDn9zeswoAAAAi/mewo-sleep-sprite-mewo.gif)
 
-Eu sou a Leticia 
+
 
 - Atualmente estou realizando cursos na Alura
 - Estou desenvolvendo programação na linguagem JavaScript
