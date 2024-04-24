@@ -2,9 +2,7 @@
 
 
 
-- Atualmente estou realizando cursos na Alura
-- Estou desenvolvendo programação na linguagem JavaScript
-- Utilizo [P5.js](https://editor.p5js.org) para programar
+- Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFPR
 
   `Você pode entrar em contato comigo através do meu email:`  
 
